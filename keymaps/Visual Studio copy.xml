@@ -1,0 +1,13 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="XDebugger.CopyWatch" />
+</keymap>
