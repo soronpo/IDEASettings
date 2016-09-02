@@ -1,5 +1,9 @@
 <keymap version="1" name="Visual Studio copy 0" parent="Visual Studio">
   <action id="CompareTwoFiles" />
+  <action id="Compile" />
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -7,6 +11,7 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="PackageFile" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
