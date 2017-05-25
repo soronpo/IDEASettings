@@ -12,6 +12,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
   <action id="PackageFile" />
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
