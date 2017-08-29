@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="bib" type="PLAIN_TEXT" />
       <mapping ext="vhdl" type="PLAIN_TEXT" />
+      <mapping ext="dfiant" type="Scala" />
+      <mapping ext="chisel" type="Scala" />
       <mapping ext="bsv" type="VHDL" />
       <mapping ext="sv" type="VHDL" />
     </extensionMap>
