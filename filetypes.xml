@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bib" type="PLAIN_TEXT" />
+      <mapping ext="vhdl" type="PLAIN_TEXT" />
+      <mapping ext="bsv" type="VHDL" />
+      <mapping ext="sv" type="VHDL" />
     </extensionMap>
   </component>
 </application>
