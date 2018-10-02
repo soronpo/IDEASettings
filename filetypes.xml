@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bib" type="PLAIN_TEXT" />
       <mapping ext="dfiant" type="Scala" />
       <mapping ext="chisel" type="Scala" />
