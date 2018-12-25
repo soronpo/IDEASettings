@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bib" type="PLAIN_TEXT" />
+      <mapping pattern="Play" type="Scala" />
       <mapping ext="dfiant" type="Scala" />
       <mapping ext="chisel" type="Scala" />
     </extensionMap>
