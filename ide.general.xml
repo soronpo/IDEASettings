@@ -9,6 +9,6 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="external.system.import.resolve.annotations" value="false" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
