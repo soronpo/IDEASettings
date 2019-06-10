@@ -4,6 +4,7 @@
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
+  <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
