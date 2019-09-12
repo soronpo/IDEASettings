@@ -9,6 +9,7 @@
     <option id="scala.parameter.name.hint" value="false" />
     <disabledLanguages>
       <language id="JAVA" />
+      <language id="Scala" />
       <language id="kotlin" />
       <language id="Groovy" />
     </disabledLanguages>
