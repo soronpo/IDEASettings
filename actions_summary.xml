@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581028565269" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
@@ -233,6 +241,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="NewDir">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581028519105" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Rerun">
           <value>
             <ActionSummary>
@@ -262,6 +278,14 @@
             <ActionSummary>
               <option name="last" value="1581021495245" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Scala.NewClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581028023788" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -302,6 +326,14 @@
             <ActionSummary>
               <option name="last" value="1581018648366" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581028565961" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
