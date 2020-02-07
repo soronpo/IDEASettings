@@ -461,8 +461,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581042274303" />
-              <option name="times" value="1" />
+              <option name="last" value="1581044846767" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -511,6 +511,14 @@
             <ActionSummary>
               <option name="last" value="1581042250084" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581044850355" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
