@@ -93,8 +93,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081620128" />
-              <option name="times" value="68" />
+              <option name="last" value="1581082066382" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081570994" />
-              <option name="times" value="151" />
+              <option name="last" value="1581082066100" />
+              <option name="times" value="152" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081582444" />
-              <option name="times" value="266" />
+              <option name="last" value="1581082069292" />
+              <option name="times" value="267" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581039488447" />
-              <option name="times" value="5" />
+              <option name="last" value="1581082069762" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
