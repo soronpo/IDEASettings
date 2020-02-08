@@ -37,8 +37,8 @@
         <entry key="ChangesView.AddUnversioned">
           <value>
             <ActionSummary>
-              <option name="last" value="1581140903016" />
-              <option name="times" value="1" />
+              <option name="last" value="1581142012477" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139221486" />
-              <option name="times" value="18" />
+              <option name="last" value="1581142472682" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,7 +365,15 @@
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139931253" />
+              <option name="last" value="1581141765419" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Tag">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581142482245" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -501,8 +509,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581044846767" />
-              <option name="times" value="2" />
+              <option name="last" value="1581142511939" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +597,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581140350719" />
-              <option name="times" value="62" />
+              <option name="last" value="1581141681278" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +637,32 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581140340406" />
+              <option name="last" value="1581142494032" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581141748431" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581141758634" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$RemoteDeleteAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581141727701" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
