@@ -5,8 +5,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1581128705157" />
-              <option name="times" value="5" />
+              <option name="last" value="1581140385441" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -34,11 +34,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ChangesView.AddUnversioned">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581140903016" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ChangesView.Revert">
           <value>
             <ActionSummary>
-              <option name="last" value="1581120194158" />
-              <option name="times" value="4" />
+              <option name="last" value="1581140209221" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581138234730" />
-              <option name="times" value="387" />
+              <option name="last" value="1581139997422" />
+              <option name="times" value="390" />
             </ActionSummary>
           </value>
         </entry>
@@ -354,11 +362,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Git.Pull">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581139931253" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
               <option name="last" value="1581139080961" />
               <option name="times" value="33" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="HideProjectRefreshAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581140940343" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +445,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581138272586" />
-              <option name="times" value="50" />
+              <option name="last" value="1581139999701" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -482,6 +506,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.UpdateProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581139986316" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
           <value>
             <ActionSummary>
@@ -514,6 +546,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581139876083" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
@@ -525,8 +565,8 @@
         <entry key="com.intellij.openapi.ui.DialogWrapper$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581128706171" />
-              <option name="times" value="5" />
+              <option name="last" value="1581140386586" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +589,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139233330" />
-              <option name="times" value="56" />
+              <option name="last" value="1581140350719" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -574,6 +614,22 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581020857844" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581139922230" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581140340406" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
