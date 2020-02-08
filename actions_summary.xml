@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581142472682" />
-              <option name="times" value="20" />
+              <option name="last" value="1581144706087" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -63,6 +63,14 @@
             <ActionSummary>
               <option name="last" value="1581138008631" />
               <option name="times" value="26" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Compare.Selected">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581144635584" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +109,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581143296327" />
-              <option name="times" value="398" />
+              <option name="last" value="1581144725625" />
+              <option name="times" value="413" />
             </ActionSummary>
           </value>
         </entry>
@@ -354,6 +362,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Git.Branches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581144603837" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
@@ -509,8 +525,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581143307360" />
-              <option name="times" value="5" />
+              <option name="last" value="1581144874516" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,16 +573,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139876083" />
-              <option name="times" value="1" />
+              <option name="last" value="1581144562664" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139171109" />
-              <option name="times" value="11" />
+              <option name="last" value="1581144649021" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +613,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581141681278" />
-              <option name="times" value="64" />
+              <option name="last" value="1581144758390" />
+              <option name="times" value="68" />
             </ActionSummary>
           </value>
         </entry>
@@ -622,6 +638,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581020857844" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$CompareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581144610662" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
