@@ -101,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139997422" />
-              <option name="times" value="390" />
+              <option name="last" value="1581143296327" />
+              <option name="times" value="398" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581138249310" />
-              <option name="times" value="99" />
+              <option name="last" value="1581143293530" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="Git.Tag">
           <value>
             <ActionSummary>
-              <option name="last" value="1581142482245" />
-              <option name="times" value="1" />
+              <option name="last" value="1581143268197" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581142511939" />
-              <option name="times" value="4" />
+              <option name="last" value="1581143307360" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
