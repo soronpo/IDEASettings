@@ -37,8 +37,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581517608871" />
-              <option name="times" value="4" />
+              <option name="last" value="1581521508000" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -334,6 +334,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581517376438" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Commit.And.Push.Executor">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581521514278" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
