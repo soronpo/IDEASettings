@@ -98,6 +98,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ContextHelp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581883474983" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Debug">
           <value>
             <ActionSummary>
@@ -434,6 +442,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="NewDir">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581883263967" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NextTemplateVariable">
           <value>
             <ActionSummary>
@@ -487,6 +503,14 @@
             <ActionSummary>
               <option name="last" value="1581882241711" />
               <option name="times" value="34" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Scala.NewClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581883405015" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +597,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581882786249" />
-              <option name="times" value="26" />
+              <option name="last" value="1581883527718" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
