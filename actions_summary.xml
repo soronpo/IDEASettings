@@ -69,8 +69,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581858326444" />
-              <option name="times" value="48" />
+              <option name="last" value="1581958978690" />
+              <option name="times" value="50" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CompileDirty">
           <value>
             <ActionSummary>
-              <option name="last" value="1581858294764" />
-              <option name="times" value="207" />
+              <option name="last" value="1581958935264" />
+              <option name="times" value="208" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581858330624" />
-              <option name="times" value="4" />
+              <option name="last" value="1581958983469" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581939735421" />
-              <option name="times" value="122" />
+              <option name="last" value="1581958992913" />
+              <option name="times" value="124" />
             </ActionSummary>
           </value>
         </entry>
