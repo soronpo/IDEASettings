@@ -69,8 +69,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958978690" />
-              <option name="times" value="50" />
+              <option name="last" value="1582093564126" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CompileDirty">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958935264" />
-              <option name="times" value="208" />
+              <option name="last" value="1582093687279" />
+              <option name="times" value="209" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958983469" />
-              <option name="times" value="5" />
+              <option name="last" value="1582093568018" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -610,6 +610,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.Force.Push">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093573351" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
@@ -621,8 +629,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581934344000" />
-              <option name="times" value="8" />
+              <option name="last" value="1582093678252" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
