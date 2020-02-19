@@ -533,8 +533,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581939984261" />
-              <option name="times" value="44" />
+              <option name="last" value="1582149672804" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +629,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093678252" />
-              <option name="times" value="10" />
+              <option name="last" value="1582149365449" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581139196988" />
-              <option name="times" value="4" />
+              <option name="last" value="1582149671772" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582044710258" />
-              <option name="times" value="130" />
+              <option name="last" value="1582149373198" />
+              <option name="times" value="132" />
             </ActionSummary>
           </value>
         </entry>
