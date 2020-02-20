@@ -77,8 +77,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093564126" />
-              <option name="times" value="52" />
+              <option name="last" value="1582207732811" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582190405324" />
-              <option name="times" value="134" />
+              <option name="last" value="1582207737983" />
+              <option name="times" value="136" />
             </ActionSummary>
           </value>
         </entry>
