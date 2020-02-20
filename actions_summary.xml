@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582233235993" />
-              <option name="times" value="277" />
+              <option name="last" value="1582233364883" />
+              <option name="times" value="279" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582207732811" />
-              <option name="times" value="54" />
+              <option name="last" value="1582233285019" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582232974202" />
-              <option name="times" value="427" />
+              <option name="last" value="1582233360214" />
+              <option name="times" value="428" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1582232998020" />
-              <option name="times" value="1712" />
+              <option name="last" value="1582233359964" />
+              <option name="times" value="1716" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582230548093" />
-              <option name="times" value="138" />
+              <option name="last" value="1582233293916" />
+              <option name="times" value="142" />
             </ActionSummary>
           </value>
         </entry>
