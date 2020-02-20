@@ -642,6 +642,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.notification.NotificationAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093661317" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
@@ -653,8 +661,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037544027" />
-              <option name="times" value="102" />
+              <option name="last" value="1582093666924" />
+              <option name="times" value="104" />
             </ActionSummary>
           </value>
         </entry>
