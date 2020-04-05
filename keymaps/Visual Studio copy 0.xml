@@ -2,6 +2,8 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="ChangeSignature" />
+  <action id="ChangesView.Rename" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
@@ -33,34 +35,57 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorToggleShowWhitespaces" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
   </action>
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="Inline" />
+  <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceProperty" />
+  <action id="IntroduceVariable" />
+  <action id="Move" />
   <action id="PackageFile" />
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Resume" />
+  <action id="RiderBackendAction-EncapsulateField" />
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShelvedChanges.Rename" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -84,4 +109,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="refactoring.extract.dependency" />
+  <action id="refactoring.introduce.property" />
 </keymap>
