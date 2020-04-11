@@ -4,6 +4,9 @@
   </action>
   <action id="ChangeSignature" />
   <action id="ChangesView.Rename" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
   <action id="CompileProject">
@@ -30,6 +33,9 @@
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
   <action id="Inline" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
