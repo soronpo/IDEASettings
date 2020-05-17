@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
   <action id="CompileProject">
@@ -9,7 +12,16 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="PackageFile" />
   <action id="Rerun">
