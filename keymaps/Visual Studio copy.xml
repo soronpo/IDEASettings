@@ -24,6 +24,9 @@
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="PackageFile" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
