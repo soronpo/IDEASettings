@@ -58,7 +58,9 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
